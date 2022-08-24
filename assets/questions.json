@@ -1,42 +1,42 @@
 [
-    {
-      "question": "Which of the following is/are not FAIR principles?",
-      "choice1": "Findable & Accessible",
-      "choice2": "Accessible & Reproducible",
-      "choice3": "Identifiable & Reproducible",
-      "choice4": "Reproducible & Findable",
-      "answer": 3
-    },
-    {
-      "question": "Which of the following statements is true?'?",
-      "choice1": "Metadata should be determined at the beginning of the project to provide guidelines for the process.",
-      "choice2": "Understanding the purpose of a file is a good way to start when you try to decide the format for file preserving.",
-      "choice3": "PID (persistent identifier) includes DOI, ORCID, ISBN, URL, etc.",
-      "choice4": "Sensitive data can always be FAIR in the same way as non-sensitive data.",
-      "answer": 2
-    },
-    {
-      "question": "If you want to find out about a specific author, the most effective way is to search by:",
-      "choice1": "ORCID",
-      "choice2": "URL",
-      "choice3": "DQI",
-      "choice4": "ARKs",
-      "answer": 1
-    },
-    {
-      "question": "Jane is conducting a research project that employs quantitative data without any personal or confidential information. How can she draw up a data management plan that is FAIR?",
-      "choice1": "Write a new data management plan, specifying the planned handling of all data types.",
-      "choice2": "Find the data management plan from a previous project and use it.",
-      "choice3": "Hire someone externally to write the data management plan.",
-      "choice4": "Delegate the job to one of her collaborators.",
-      "answer": 1
-    },
-    {
-      "question": " this is a place holder questions",
-      "choice1": "msgBox('Hello World');",
-      "choice2": "alertBox('Hello World');",
-      "choice3": "msg('Hello World');",
-      "choice4": "alert('Hello World');",
-      "answer": 4
-    }
-  ]
+  {
+    "question": "Which of the following can NOT be referred to as primary data?",
+    "choice1": "Quantitative data a master’s student collected for his/her research that is part of your project.",
+    "choice2": "Transcript of the recording of a focus group discussion.",
+  "choice3": "Survey data collected by an agency you paid to access.",
+    "choice4": "Health records of patients that agreed to participate in a clinical study.",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following are NOT considered to be metadata?",
+    "choice1": "Date when the file was modified.",
+    "choice2": "Number of cows in each of the observed herds.",
+    "choice3": "Unique identifiers, such as ISBN or DOI.",
+    "choice4": "Permissions to write, read, execute and delete.",
+    "answer": 2
+  },
+  {
+    "question": "Which of the claims about an embargo period on data access is NOT correct?",
+    "choice1": "An embargo period is often stated in your consortium agreement, funders’ contract, patent, etc.",
+    "choice2": "An embargo period is usually created as a result of unfavourable political or economic circumstances between nations.",
+    "choice3": "An embargo period is temporary and at the end of it data will become available by either open or mediated access.",
+    "choice4": "An embargo period allows for IP registration (patent, design, copyright).",
+    "answer": 2
+  },
+  {
+    "question": "What should be included in a data management plan (DMP)?",
+    "choice1": "Data publishing impact",
+    "choice2": "Dissemination methods",
+  "choice3": "Legal and ethical requirements",
+    "choice4": "Data storage and preservation strategy",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following data records are reproducible?",
+    "choice1": "Genome sequencing data of a specific organism",
+    "choice2": "Particle acceleration in a particle collider",
+    "choice3": "Drawings of patients with PTSD after the psychotherapy session",
+    "choice4": "Results of running machine learning algorithm on a specific dataset",
+    "answer": 3
+  }
+]
