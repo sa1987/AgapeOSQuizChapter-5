@@ -1,42 +1,42 @@
 [
-  {
-    "question": "Which of the following can NOT be referred to as primary data?",
-    "choice1": "Quantitative data a master’s student collected for his/her research that is part of your project.",
-    "choice2": "Transcript of the recording of a focus group discussion.",
-  "choice3": "Survey data collected by an agency you paid to access.",
-    "choice4": "Health records of patients that agreed to participate in a clinical study.",
-    "answer": 3
-  },
-  {
-    "question": "Which of the following are NOT considered to be metadata?",
-    "choice1": "Date when the file was modified.",
-    "choice2": "Number of cows in each of the observed herds.",
-    "choice3": "Unique identifiers, such as ISBN or DOI.",
-    "choice4": "Permissions to write, read, execute and delete.",
-    "answer": 2
-  },
-  {
-    "question": "Which of the claims about an embargo period on data access is NOT correct?",
-    "choice1": "An embargo period is often stated in your consortium agreement, funders’ contract, patent, etc.",
-    "choice2": "An embargo period is usually created as a result of unfavourable political or economic circumstances between nations.",
-    "choice3": "An embargo period is temporary and at the end of it data will become available by either open or mediated access.",
-    "choice4": "An embargo period allows for IP registration (patent, design, copyright).",
-    "answer": 2
-  },
-  {
-    "question": "What should be included in a data management plan (DMP)?",
-    "choice1": "Data publishing impact",
-    "choice2": "Dissemination methods",
-  "choice3": "Legal and ethical requirements",
-    "choice4": "Data storage and preservation strategy",
-    "answer": 1
-  },
-  {
-    "question": "Which of the following data records are reproducible?",
-    "choice1": "Genome sequencing data of a specific organism",
-    "choice2": "Particle acceleration in a particle collider",
-    "choice3": "Drawings of patients with PTSD after the psychotherapy session",
-    "choice4": "Results of running machine learning algorithm on a specific dataset",
-    "answer": 3
-  }
-]
+    {
+      "question": "Which of the following can NOT be referred to as primary data?",
+      "choice1": "Quantitative data a master’s student collected for his/her research that is part of your project.",
+      "choice2": "Transcript of the recording of a focus group discussion.",
+	    "choice3": "Survey data collected by an agency you paid to access.",
+      "choice4": "Health records of patients that agreed to participate in a clinical study.",
+      "answer": 3
+    },
+    {
+      "question": "Which of the following are NOT considered to be metadata?",
+      "choice1": "Date when the file was modified.",
+      "choice2": "Number of cows in each of the observed herds.",
+      "choice3": "Unique identifiers, such as ISBN or DOI.",
+      "choice4": "Permissions to write, read, execute and delete.",
+      "answer": 2
+    },
+    {
+      "question": "Which of the claims about an embargo period on data access is NOT correct?",
+      "choice1": "An embargo period is often stated in your consortium agreement, funders’ contract, patent, etc.",
+      "choice2": "An embargo period is usually created as a result of unfavourable political or economic circumstances between nations.",
+      "choice3": "An embargo period is temporary and at the end of it data will become available by either open or mediated access.",
+      "choice4": "An embargo period allows for IP registration (patent, design, copyright).",
+      "answer": 2
+    },
+    {
+      "question": "What should NOT be included in a data management plan (DMP)?",
+      "choice1": "Data publishing impact",
+      "choice2": "Dissemination methods",
+	    "choice3": "Legal and ethical requirements",
+      "choice4": "Data storage and preservation strategy",
+      "answer": 1
+    },
+    {
+      "question": "Which of the following data records are NOT reproducible?",
+      "choice1": "Genome sequencing data of a specific organism",
+      "choice2": "Particle acceleration in a particle collider",
+      "choice3": "Drawings of patients with PTSD after the psychotherapy session",
+      "choice4": "Results of running machine learning algorithm on a specific dataset",
+      "answer": 3
+    }
+  ]
